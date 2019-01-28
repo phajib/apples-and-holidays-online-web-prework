@@ -49,6 +49,7 @@ def all_winter_holiday_supplies(holiday_hash)
   holiday.each do |k,v|
     new_array= []
     new_array<<v
+    new_array
 end
 
 def all_supplies_in_holidays(holiday_hash)
