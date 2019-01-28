@@ -50,6 +50,7 @@ def all_winter_holiday_supplies(holiday_hash)
     new_array= []
     new_array<<v
     new_array
+  end
 end
 
 def all_supplies_in_holidays(holiday_hash)
